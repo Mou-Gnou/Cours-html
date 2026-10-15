@@ -1,3 +1,15 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #e76d34;
+}
+header {
+    background-color: #e9cf66;
+}
+div {
+    background-color: #e866bd;
+}
+main {
+    background-color: #66e8c4;
+}
+footer {
+    background-color: #033257;
 }
